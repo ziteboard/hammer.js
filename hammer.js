@@ -3,7 +3,7 @@
  *
  * Copyright (c) 2016 Jorik Tangelder;
  * Licensed under the MIT license */
-console.log('Hammer-2018-06-24v1');//skali
+//console.log('Hammer-2018-06-24');//skali
 (function(window, document, exportName, undefined) {
   'use strict';
 
